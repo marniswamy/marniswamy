@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a target="blank" href="https://marniswamy.github.io/my-profile/">Marni</a> (Ayyappa Swamy)</h1>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://marniswamy.github.io/my-profile/">Marni</a> (Ayyappa Swamy)</h1>
 <h2 align="center">Sr. Frontend developer</h2>
 
 <h3 align="left">Connect with me:</h3>
