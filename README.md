@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marni (Ayyappa Swamy)</h1>
-<h3 align="center">Sr. Frontend Developer | <a target="_blank" href="https://marniswamy.github.io/my-profile/">Portfolio</a></h3>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://marniswamy.github.io/my-profile/">Marni</a> (Ayyappa Swamy)</h1>
+<h3 align="center">Sr. Frontend Developer</h3>
 
 <br/>
 <br/>
