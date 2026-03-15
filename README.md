@@ -1,10 +1,11 @@
 <div align="center">
   
-  <img src="https://ui-avatars.com/api/?name=Marni+Ayyappa+Swamy&background=6366f1&color=fff&size=150&rounded=true" alt="Marni Ayyappa Swamy" width="150" />
+ <img src="https://raw.githubusercontent.com/marniswamy/my-profile/master/assets/css/images/myprofile.png" alt="Marni Ayyappa Swamy" width="150" height="150" style="border-radius: 50%; object-fit: cover;" />
+
+
 
   <h1>Hello, I'm Ayyappa Swamy Marni 👋</h1>
 
-  <h3>Frontend Engineer • Web • Mobile</h3>
   <p>
     <em>Crafting pixel-perfect interfaces and seamless user experiences with modern technologies.</em>
   </p>
